@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "projectManager.checkInvalidPathsBeforeListing": false,
+        "projectManager.git.baseFolders": [
+            "/media/mikea/86022EF5022EE9BF/web/repos/next-netlify.starter"
+        ],
+        "projectManager.vscode.baseFolders": [
+            "/media/mikea/86022EF5022EE9BF/web/repos/next-netlify.starter"
+        ],
+        "prettier.enable": false,
+        "gitlens.showWelcomeOnInstall": false
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+
+            }
+        ]
+    }
+}
